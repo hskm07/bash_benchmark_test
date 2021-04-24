@@ -1,0 +1,3 @@
+[   Memory   ] : 101224 [kB] --> 101948 [kB]
+[Memory Usgae] : 724 [kB]
+[  Run time  ] : .113 sec
