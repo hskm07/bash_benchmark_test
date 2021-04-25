@@ -2,7 +2,8 @@
 This repository is a tool to measure a simple benchmark of shell scripts executed by bash.
 
 ## Demo
-
+sample gif image
+![Demo](https://user-images.githubusercontent.com/74054056/115984088-2d86d300-a5e0-11eb-9c0d-9863cfffcb6f.gif)
 
 ## Description
 bash_benchmark_test is a simple benchmark test script that detects shell script speed, memory used at runtime, and errors.
